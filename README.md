@@ -6,8 +6,9 @@ Breakdown Spotify or Apple Music playlists into the contsituent tracks and then 
 ## Requirements
 It is required that a Spotify developer account is setup and an application is registered so that you can generate a client_id and client_secret.
 
-- client_id
-- client_secret
+- secrets.py including:
+    - client_id
+    - client_secret
 - requests module
 
 ## Notes
