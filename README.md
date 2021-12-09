@@ -11,4 +11,4 @@ It is required that a Spotify developer account is setup and an application is r
 - requests module
 
 ## Notes
-This is currently in development and currently only contains Spotify API integration. 
+This is currently in development and, therefore, currently only contains Spotify API integration. 
